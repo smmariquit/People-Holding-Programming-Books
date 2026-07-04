@@ -33,6 +33,5 @@ This repository is distributed under the MIT License. See `LICENSE` for more inf
 - **Repository Size:** 9 tracked files
 - **Latest Update:** `ce8b758 chore: add stale issue and PR validators`
 
-
 ---
 *☕ If you found this project useful, you can support my work at [kape.stimmie.dev](https://kape.stimmie.dev)!*
